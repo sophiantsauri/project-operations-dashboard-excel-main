@@ -1,0 +1,8 @@
+Project Operations & Billing Dashboard | Excel, Workflow Simulation
+
+- Built a multi-sheet Excel dashboard simulating project coordination, billing, documentation control, and inventory tracking
+- Automated budget tracking, cost variance analysis, invoice aging, and payment status using formulas and structured data
+- Created KPI dashboards and charts to monitor project health, workflow progress, and operational risks
+- Designed document control logs for RFIs and submittals to improve record management and visibility
+- Implemented dropdown-driven status tracking and conditional formatting alerts for overdue tasks and low inventory
+- Modeled project lifecycle workflows from setup through closeout to support coordination across teams
